@@ -18,3 +18,4 @@ title = 'home'
 
 歡迎來到我的部落格，在這裡我會寫教學文章，分享我寫的軟體和遊戲，還有上船我的小說
 
+## [我的bearblog](https://eaton-wu.bearblog.dev/)
