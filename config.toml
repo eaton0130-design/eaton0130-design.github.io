@@ -844,7 +844,7 @@ uglyURLs = false
     readingTimeIcon = "clock"
 
     # 是否顯示不蒜子頁面瀏覽量
-    displayBusuanziPagePV = false
+    displayBusuanziPagePV = true
     # 不蒜子頁面瀏覽量的圖示
     busuanziPagePVIcon = "eye"
     # 說明：僅在生產環境（production）下渲染
@@ -1313,7 +1313,7 @@ uglyURLs = false
     # 自定義頁尾（支援 Markdown）
     customFooter = ""
 
-    displayBusuanziSiteUVAndPV = false
+    displayBusuanziSiteUVAndPV = true
     busuanziSiteUVText = "本站訪客數"
     busuanziSiteUVIcon = "user"
     busuanziSitePVText = "本站訪問量"
