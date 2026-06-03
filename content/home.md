@@ -1,12 +1,8 @@
-+++
-
-date = '2026-04-21T10:51:27+08:00'
-
-draft = false
-
-title = 'home'
-
-+++
+---
+date: '2026-04-21T10:51:27+08:00'
+draft: false
+title: home
+---
 
 
 
