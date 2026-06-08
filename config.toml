@@ -632,7 +632,7 @@ uglyURLs = false
     # 說明：https://valine.js.org/
 
     ## Utterances
-    enableUtterances = true
+    enableUtterances = false
     utterancesRepo = "eaton0130-design/eaton0130-design.github.io"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
@@ -683,11 +683,11 @@ uglyURLs = false
     # 說明：https://github.com/gitalk/gitalk
 
     ## Giscus
-    enableGiscus = false
-    giscusRepo = "[ENTER repo/you/want HERE]"
-    giscusRepoId = "[ENTER REPO ID HERE]"
-    giscusCategory = "[ENTER CATEGORY NAME HERE]"
-    giscusCategoryId = "[ENTER CATEGORY ID HERE]"
+    enableGiscus = true
+    giscusRepo = "eaton0130-design/eaton0130-design.github.io"
+    giscusRepoId = "R_kgDOSMAYWg"
+    giscusCategory = "Announcements"
+    giscusCategoryId = "DIC_kwDOSMAYWs4C-u41"
     giscusMapping = "pathname"
     giscusStrict = false
     giscusReactionsEnabled = true
