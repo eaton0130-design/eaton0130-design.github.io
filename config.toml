@@ -633,7 +633,7 @@ uglyURLs = false
 
     ## Utterances
     enableUtterances = true
-    utterancesRepo = ""
+    utterancesRepo = "eaton0130-design/eaton0130-design.github.io"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
     utterancesThemeDark = "photon-dark"
