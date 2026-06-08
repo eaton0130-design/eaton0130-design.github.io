@@ -599,7 +599,7 @@ uglyURLs = false
     # 說明：僅在生產環境（production）下渲染
 
     # 是否開啟（全域性設定）
-    enableComments = false
+    enableComments = true
     # 說明：文章的 Front Matter 中的 `comments`
     #      的優先順序高於此處
 
@@ -632,12 +632,12 @@ uglyURLs = false
     # 說明：https://valine.js.org/
 
     ## Utterances
-    enableUtterances = false
+    enableUtterances = true
     utterancesRepo = ""
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
     utterancesThemeDark = "photon-dark"
-    utterancesLabel = ""
+    utterancesLabel = "Comments"
     # 說明：https://utteranc.es/
 
     ## Gitalk
