@@ -1,0 +1,10 @@
+{{ define "main" }}
+<main class="main">
+    <article class="post">
+        <div class="post-body">
+            <!-- 這裡會自動抓取 content/_index.md 裡面的文字內容 -->
+            {{ .Content }}
+        </div>
+    </article>
+</main>
+{{ end }}
