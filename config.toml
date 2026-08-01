@@ -181,7 +181,7 @@ uglyURLs = false
 [menu]
     ## 選單欄
     [[menu.main]]
-        pageref = "home"
+        pageref = "_index"
         name = "首頁"
         weight = 1
         pre = "internal"
@@ -192,18 +192,18 @@ uglyURLs = false
         weight = 2
         pre = "internal"
         post = "archive"
-    [[menu.main]]
-        pageref = "/categories/"
-        name = "分類"
-        weight = 3
-        pre = "internal"
-        post = "th"
-    [[menu.main]]
-        pageref = "/tags/"
-        name = "標籤"
-        weight = 4
-        pre = "internal"
-        post = "tags"
+#    [[menu.main]]
+#        pageref = "/categories/"
+#        name = "分類"
+#        weight = 3
+#        pre = "internal"
+#        post = "th"
+#    [[menu.main]]
+#        pageref = "/tags/"
+#        name = "標籤"
+#        weight = 4
+#        pre = "internal"
+#        post = "tags"
     [[menu.main]]
         pageref = "/about/"
         name = "關於"
