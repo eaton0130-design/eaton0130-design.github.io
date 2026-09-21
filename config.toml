@@ -253,7 +253,7 @@ uglyURLs = false
     # 說明：居中佈局（center）或彈性佈局（flex）
 
     # 在窄檢視下隱藏選單欄並顯示一個按鈕？
-    enableNavToggle = true
+    enableNavToggle = false
 
     navHeight = "10em"
     # 說明：選單欄展開時的高度
